@@ -1,0 +1,13 @@
+{
+    "name": "prakhar/rss-csv",
+    "description": "PHP Script to convert Podcast RSS to CSV",
+    "authors": [
+        {
+            "name": "Prakhar Baveja",
+            "email": "prakhar.baveja@gmail.com"
+        }
+    ],
+    "require": {
+        "tzsk/scrape-pod": "^1.2"
+    }
+}
